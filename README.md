@@ -2,6 +2,7 @@
 This project is a timeline of the history of machine learning created using the Timeline Builder template. 
 
 Created by: Cyrelle Kristin P. Gapit
+
 Section: 3IS2
 
 Info. References: 
