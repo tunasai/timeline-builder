@@ -7,7 +7,7 @@
 		},
 		"text": {
 			"headline": " Advancements in Machine Learning Through The Years (1949 - Present) ",
-			"text": "<p>Machine learning is a branch of artificial intelligence that enables systems to learn from data and improve over time without being explicitly programmed. This timeline highlights key breakthroughs and innovations that have shaped the development of modern machine learning, from its early theoretical foundations to today's powerful AI applications.</p>"
+			"text": "<p> Machine learning is a branch of artificial intelligence that enables systems to learn from data and improve over time without being explicitly programmed. This timeline highlights key breakthroughs and innovations that have shaped the development of modern machine learning, from its early theoretical foundations to today's powerful AI applications. </p>"
 		}
 	},
 	"events": [
@@ -163,6 +163,20 @@
 			"text": {
 				"headline": " Future of Machine Learning",
 				"text": "<p>The future of machine learning (ML) is expected to focus on distributed computing, ethical AI practices, automation through AutoML, and integration with advanced technologies like quantum computing. These developments aim to address complex challenges in sectors like healthcare, finance, and transportation. Emerging trends also emphasize greater accessibility, stronger data privacy, and a commitment to sustainable and transparent AI systems.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://xiengineering.com/wp-content/uploads/2023/10/AdobeStock_519767884-1-scaled.jpeg",
+				"caption": "Machine Learning",
+				"credit": "<a href=\"https://xiengineering.com/machine-learning-fundamentals-applications-and-expert-insight/\"> Image source: </a>"
+			},
+			"start_date": {
+				"year": "2026"
+			},
+			"text": {
+				"headline": "References",
+				"text": "<p> Alarcon, N., & Alarcon, N. (2023, June 12). OpenAI Presents GPT-3, a 175 Billion Parameters Language Model. NVIDIA Technical Blog. <a href=\"https://developer.nvidia.com/blog/openai-presents-gpt-3-a-175-billion-parameters-language-model/\">https://developer.nvidia.com/blog/openai-presents-gpt-3-a-175-billion-parameters-language-model/</a><br> Foote, K. D. (2024, September 25). A brief history of machine learning. DATAVERSITY. <a href=\"https://www.dataversity.net/a-brief-history-of-machine-learning/\">https://www.dataversity.net/a-brief-history-of-machine-learning/</a><br> Karjian, R. (2024, June 13). History and evolution of machine learning: A timeline. WhatIs. <a href=\"https://www.techtarget.com/whatis/feature/History-and-evolution-of-machine-learning-A-timeline\">https://www.techtarget.com/whatis/feature/History-and-evolution-of-machine-learning-A-timeline</a><br> What is the Future of Machine Learning? | Mission. (2025, February 28). <a href=\"https://www.missioncloud.com/blog/what-is-the-future-of-machine-learning#:~:text=Data%20Privacy%20and%20Security%20Concerns,and%20maintain%20compliance%20with%20regulations.\">https://www.missioncloud.com/blog/what-is-the-future-of-machine-learning</a><br> Wikipedia contributors. (2025, August 20). Machine learning. Wikipedia. <a href=\"https://en.wikipedia.org/wiki/Machine_learning\">https://en.wikipedia.org/wiki/Machine_learning</a></p>"
 			}
 		}
 	]
